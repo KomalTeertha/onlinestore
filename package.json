@@ -72,6 +72,11 @@
   "author": "harsha javalkar",
   "license": "ISC",
   "repository": {
-    "type": "git"
-  }
+    "type": "git",
+    "url": "git+https://github.com/KomalTeertha/onlinestore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KomalTeertha/onlinestore/issues"
+  },
+  "homepage": "https://github.com/KomalTeertha/onlinestore#readme"
 }
